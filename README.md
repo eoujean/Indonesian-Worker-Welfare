@@ -113,3 +113,7 @@ Empirical Application Examples
 Mean Squared Error (MSE): 302,030.64
 
 ### Mean Absolute Percentage Error (MAPE): 0.0363 (~3.63% error margin, confirming high predictive reliability)
+
+---
+
+<p align="center"><img width="2480" height="3508" alt="Infographic_Kelompok 7_page-0001" src="https://github.com/user-attachments/assets/5c8b3b8c-3b16-4f3c-986f-8a6500c4d21a" /></p>
